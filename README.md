@@ -1,4 +1,4 @@
-## IP Analyzer
+## Login System
 
 <p align='center'>
   <b>Follow me here:</b><br>  
@@ -7,10 +7,6 @@
 
 
 ---
-
-**FR:** A but éducatif seulement.    
-**EN:** For educational purposes only. 
-
 
 ## ❓ Informations
 
