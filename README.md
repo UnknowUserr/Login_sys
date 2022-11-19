@@ -12,7 +12,7 @@
 
 __FR__: **Login System** est un programme qui permet de créer ou se connecter à un compte pour pouvoir accéder au programme que vous mettrez à la `ligne 86 à la place de` `print('Put your program here')`. Les comptes seront pour l'instant stocker dans un fichier `config.json`
 
-__EN__: **Login System** is a program that allows you to create or connect to an account to access the program you will put on `line 86' instead of `print('Put your program here'). Accounts will be stored in a `config.json` file for the time being.
+__EN__: **Login System** is a program that allows you to create or connect to an account to access the program you will put on `line 86' instead of print('Put your program here').` Accounts will be stored in a `config.json` file for the time being.
 
  
  
