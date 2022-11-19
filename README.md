@@ -51,4 +51,4 @@ Github: https://github.com/XeroxOnTop
   
 
 ### 📜 License
-IP Analyzer is under licensed MIT [MIT License](https://github.com/XeroxOnTop/Login_sys/blob/main/LICENSE).
+Login System is under licensed MIT [MIT License](https://github.com/XeroxOnTop/Login_sys/blob/main/LICENSE).
