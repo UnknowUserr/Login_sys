@@ -14,9 +14,9 @@
 
 ## ❓ Informations
 
-__FR__: **IP Analyzer** est un programme qui permet de récupérer des informations sur une ipv4 (pays, région, ville, opérateur)
+__FR__: **Login System** est un programme qui permet de créer ou se connecter à un compte. Les comptes seront pour l'instant stocker dans un fichier `config.json`
 
-__EN__: **IP Analyzer** is a program that allows you to retrieve information about an ipv4 (country, region, city, operator)
+__EN__: **Login System** is a program that allows to create or connect to an account. Accounts will be stored in a `config.json` file for the time being.
 
  
  
