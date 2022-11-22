@@ -23,7 +23,7 @@ def CreateL():
     try:
         from pystyle import Colors
         l = input(Colors.white+"[#] -> "+Colors.reset + "Would you like to create an account? (Y/n) : ")
-        if l == ("Y") or ("y"):
+        if l in ('Y', 'y'):
             print("\033c", end="")
             createA = open('config.json', 'w')
             user = input(Colors.white+"[#] -> "+Colors.reset + "Enter your username : ")
@@ -48,7 +48,7 @@ def check():
         win32console.SetConsoleTitle("Logged to : " + a)
         check = loads(open('config.json', 'r').read())
         l = input(Colors.white+"[#] -> "+Colors.reset + "Would you like to log in ? (Y/n) : ")
-        if l == ("Y") or ("y"):
+        if l in ('Y', 'y'):
             print("\033c", end="")
             user = input(Colors.white+"[#] -> "+Colors.reset + "Enter your username : ")
             passw = getpass(Colors.white+"[#] -> "+Colors.reset + "Enter your password : ")
