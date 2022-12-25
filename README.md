@@ -30,7 +30,7 @@ __Features List__ :
   
   
 ##  📝 Contact   
-Discord : `! XeRox ツ#8329`  
+Discord : `! XeRox ツ#2010`  
 Github: https://github.com/XeroxOnTop
 
 ##  📚 Contributions  
